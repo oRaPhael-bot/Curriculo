@@ -129,7 +129,7 @@ body {
     padding: 24px;
 }
 
-.rodape__texto {
+.rodape_texto {
     color: var(--cor--primaria);
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
